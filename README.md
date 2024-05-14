@@ -18,17 +18,16 @@ Before you begin, ensure you have met the following requirements:
 
 You can install all required packages using pip:
 
-```bash
+```
 pip install PyQt5 pycryptodome
-```bash
+```
 
 ## Installation
 
-```bash
-
+```
 git clone this repository
 run: Python3 fn.py
-```bash
+```
 
 ## Usage
 
