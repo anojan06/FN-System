@@ -31,11 +31,11 @@ run: Python3 fn.py
 
 ## Usage
 
-    Launch the Application: Run the script as mentioned above. The GUI will open.
-    Set Encryption Parameters: Choose the encryption mode and key settings.
-    Select Files: Use the GUI to select files you wish to encrypt or decrypt.
-    Encrypt/Decrypt: Click on the encrypt or decrypt button as required. Progress will be shown on the GUI.
-    View Results: Encrypted or decrypted files will be saved in the specified location.
+1) Launch the Application: Run the script as mentioned above. The GUI will open.
+2) Set Encryption Parameters: Choose the encryption mode and key settings.
+3) Select Files: Use the GUI to select files you wish to encrypt or decrypt.
+4) Encrypt/Decrypt: Click on the encrypt or decrypt button as required. Progress will be shown on the GUI.
+5) View Results: Encrypted or decrypted files will be saved in the specified location.
 
 ## History
 
