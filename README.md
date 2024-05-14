@@ -21,4 +21,19 @@ You can install all required packages using pip:
 ```bash
 pip install PyQt5 pycryptodome
 
+## Installation
 
+git clone this repository
+run: Python3 fn.py
+
+## Usage
+
+    Launch the Application: Run the script as mentioned above. The GUI will open.
+    Set Encryption Parameters: Choose the encryption mode and key settings.
+    Select Files: Use the GUI to select files you wish to encrypt or decrypt.
+    Encrypt/Decrypt: Click on the encrypt or decrypt button as required. Progress will be shown on the GUI.
+    View Results: Encrypted or decrypted files will be saved in the specified location.
+
+## History
+
+Originally, I started this project as a bank tracker, however, pivoted to a more generalized encryption/decryption app after reading an article that guided me in building my very own app. Attached to this repository is also the original prototype I worked on using the article. 
